@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8.0",
-  "notes": "UI redesign test release. Adds left-side navigation, redesigned settings access, improved multi-select variant workflow, inventory valuation totals, and item popularity reporting.",
-  "installer_url": "https://github.com/dsthreadzandthingz/smallbiz-inventory-updates/releases/download/v1.0.8.0/SmallBizInventory_1.0.8.0_Setup.exe"
+  "version": "1.0.9.0",
+  "notes": "Test 1 core workflow release. Adds the Home dashboard, combined Add/Adjust workflow, parent product/family codes, family-level receiving and adjustments, improved variant management, Physical Inventory Count, scan/search autofocus, appearance foundations, and expanded Help Center.",
+  "installer_url": "https://github.com/dsthreadzandthingz/smallbiz-inventory-updates/releases/download/v1.0.9.0/SmallBizInventory_1.0.9.0_Setup.exe"
 }
