@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "notes": "Update system test using the stable SmallBiz Inventory code.",
-  "installer_url": "https://github.com/dsthreadzandthingz/smallbiz-inventory-updates/releases/download/v1.0.4-test/StockSidekick_1.0.3_Setup.exe"
+  "version": "1.0.5",
+  "notes": "Adds improved inventory features and the new Transaction History tab.",
+  "installer_url": "https://github.com/dsthreadzandthingz/smallbiz-inventory-updates/releases/download/v1.0.5/SmallBizInventory_1.0.5_FEATURE_TEST_Setup.exe"
 }
