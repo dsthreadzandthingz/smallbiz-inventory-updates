@@ -1,5 +1,5 @@
 {
   "version": "1.0.2",
-  "notes": "Adds a refreshed blue interface with rounded buttons and support for adding your business logo.",
+  "notes": "Adds a refreshed blue interface with rounded buttons, business logo support, and improvements to the update installation process.",
   "installer_url": "https://github.com/dsthreadzandthingz/smallbiz-inventory-updates/releases/download/v1.0.2/StockSidekick_1.0.2_Setup.exe"
 }
