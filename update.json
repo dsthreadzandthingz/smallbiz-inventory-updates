@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Adds Inventory Valuation at Cost report, improves the application header and Report an Issue feature, improves the update system, and makes the desktop shortcut selected by default.",
-  "installer_url": "https://github.com/dsthreadzandthingz/smallbiz-inventory-updates/releases/download/v1.0.1/StockSidekick_1.0.1_Setup.exe"
+  "version": "1.0.2",
+  "notes": "Adds a refreshed blue interface with rounded buttons and support for adding your business logo.",
+  "installer_url": "https://github.com/dsthreadzandthingz/smallbiz-inventory-updates/releases/download/v1.0.2/StockSidekick_1.0.2_Setup.exe"
 }
